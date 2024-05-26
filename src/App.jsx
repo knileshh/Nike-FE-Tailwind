@@ -1,3 +1,5 @@
+import Hero from './sections/Hero'
+
 const App = () => (
   <main className="relative">
     Nav
