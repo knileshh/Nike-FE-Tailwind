@@ -1,6 +1,4 @@
-
-
-function PopularProducts() {
+const PopularProducts = () => {
   return (
     <div>PopularProducts</div>
   )

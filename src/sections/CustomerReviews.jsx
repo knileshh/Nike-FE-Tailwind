@@ -1,4 +1,4 @@
-function CustomerReviews() {
+const CustomerReviews = () => {
   return (
     <div>CustomerReviews</div>
   )

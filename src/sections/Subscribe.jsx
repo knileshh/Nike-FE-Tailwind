@@ -1,6 +1,4 @@
-
-
-function Subscribe() {
+const Subscribe = () => {
   return (
     <div>Subscribe</div>
   )

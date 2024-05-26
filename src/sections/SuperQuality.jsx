@@ -1,4 +1,4 @@
-function SuperQuality() {
+const SuperQuality = () => {
   return (
     <div>SuperQuality</div>
   )
